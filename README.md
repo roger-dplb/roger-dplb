@@ -1,87 +1,86 @@
-<h1 align="center">Fala, eu sou o Roger 👋</h1>
+<div align="center">
 
-<p align="center">
-  Backend Engineer • .NET • Clean Architecture • AI Systems
-</p>
+# Roger de Paula
 
----
+**Backend Engineer** · .NET · Clean Architecture · AI Systems
 
-## 🧠 Sobre mim
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:seu@email.com)
 
-Sou desenvolvedor focado em backend com forte atuação em:
-
-- Arquitetura Limpa
-- APIs REST versionadas
-- Integrações externas (SOAP / REST)
-- Sistemas com auditoria e controle de acesso
-- Vetorização e bancos vetoriais
-- Aplicações fullstack com Next.js
-
-Atualmente construindo sistemas escaláveis usando .NET + IA.
+</div>
 
 ---
 
-## ⚙️ Stack Principal
+Desenvolvedor backend com 3 anos de experiência construindo sistemas escaláveis em **.NET** e **Python**. Foco em arquitetura limpa, integrações corporativas e aplicações orientadas a IA — da vetorização com Milvus ao deploy em containers na AWS.
 
-### Backend
-- C#
-- ASP.NET Core
-- Entity Framework
-- Dapper
-- Clean Architecture
-- MediatR
-
-### Frontend
-- Next.js
-- React
-- Redux Toolkit
-- SCSS
-- ShadCN
-
-### Infra & DevOps
-- Docker
-- Docker Swarm
-- Milvus
-- MySQL
-- SQL Server
-- FastAPI
+Atualmente desenvolvendo uma plataforma de assistentes inteligentes integrados ao WhatsApp, servindo clínicas, escritórios e órgãos públicos.
 
 ---
 
-## 🤖 IA & Vetorização
+### Stack
 
-- Integração com LLMs
-- Web Scraping + Indexação
-- Milvus como banco vetorial
-- Arquiteturas híbridas (API + Vetorização + Roteador)
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**Backend**
+
+C# · ASP.NET Core · Entity Framework · Dapper  
+Python · FastAPI  
+MediatR · Clean Architecture · DDD
+
+</td>
+<td width="33%" valign="top">
+
+**Frontend**
+
+Next.js · React · Redux Toolkit  
+SCSS · ShadCN UI
+
+</td>
+<td width="33%" valign="top">
+
+**Infra & Data**
+
+Docker · Kubernetes · Traefik  
+AWS · SQS · EC2  
+MySQL · SQL Server · Milvus
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+### O que eu construo
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=roger-dplb&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roger-dplb&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+**Sistemas backend robustos** — APIs REST versionadas, auditoria, controle de acesso multiempresa, integrações SOAP/REST com serviços corporativos.
 
----
+**Aplicações com IA** — pipelines de web scraping + indexação vetorial com Milvus, roteamento inteligente entre modelos, integração com LLMs para assistentes conversacionais.
 
-## 🏗 Projetos em Destaque
-
-- 🔹 Plataforma com Clean Architecture
-- 🔹 Sistema com auditoria e controle multiempresa
-- 🔹 Stack Milvus + API + Router
-- 🔹 Integração SOAP corporativa
+**Infraestrutura observável** — deploys containerizados com monitoramento via OpenTelemetry + SigNoz, health checks com Uptime Kuma, CI/CD com GitHub Actions.
 
 ---
 
-## 📌 Filosofia
+### Projetos em destaque
 
-> Código limpo, arquitetura sólida e sistemas preparados para escalar.
+| Projeto | Descrição |
+|---|---|
+| **Assistente** | Plataforma de agentes IA integrados ao WhatsApp via Evolution API, com arquitetura event-driven (API Gateway → SQS → Workers) |
+| **Sistema Corporativo** | Backend .NET com Clean Architecture, auditoria completa, controle multiempresa e integração SOAP |
+| **Vector Search Stack** | Pipeline de scraping → embeddings → Milvus, com API de consulta e roteador de intenções |
 
 ---
 
-## 📫 Contato
+### GitHub Stats
 
-- LinkedIn: (coloque aqui)
-- Email: (coloque aqui)
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=roger-dplb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roger-dplb&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</div>
+
+---
+
+<div align="center">
+  <sub>Código limpo, arquitetura sólida e sistemas preparados para escalar.</sub>
+</div>
